@@ -13,6 +13,7 @@
 
 def greet_student(name):
     print(f"Welcome to class, {name}!")
+'''commit arson or something'''
 
 
 def square(number):
